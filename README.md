@@ -30,15 +30,15 @@ The notebook reports a statistically significant difference in average daily con
 
 ### Average daily conversions
 
-![Average daily conversions by platform](assets/average-daily-conversions.png)
+![Average daily conversions by platform](average-daily-conversions.png)
 
 ### Daily clicks and conversions
 
-![Scatter plots of clicks and conversions for Facebook and AdWords](assets/clicks-vs-conversions.png)
+![Scatter plots of clicks and conversions for Facebook and AdWords](clicks-vs-conversions.png)
 
 ### Facebook conversions over the year
 
-![Facebook monthly conversions in 2019](assets/facebook-monthly-conversions.png)
+![Facebook monthly conversions in 2019](facebook-monthly-conversions.png)
 
 ## Dataset
 
